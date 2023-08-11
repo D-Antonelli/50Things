@@ -1,4 +1,4 @@
-# Build 50 things
+# Build 50 something
 
 Getting out of comfort zone and building things with technologies I've never worked with? Sounds good, and I commit myself to test this idea in reality.
 
