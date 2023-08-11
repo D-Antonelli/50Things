@@ -1,6 +1,6 @@
 # Build 50 things
 
-Getting out of comfort zone and building things with technologies I've never worked with? Sounds good, and I will test this idea in this repo.
+Getting out of comfort zone and building things with technologies I've never worked with? Sounds good, and I commit myself to test this idea in reality.
 
 ## Rules
 
